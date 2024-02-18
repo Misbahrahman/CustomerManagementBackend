@@ -1,5 +1,5 @@
 # CustomerManagementPortal
-### Full Stack App for managing Customer Data 
+### Customer Management Portal is a comprehensive Full Stack Application designed to efficiently manage customer data. It empowers users with functionalities such as sorting, searching, manipulation, addition, and pagination of customer records.
 
 ## Technologies Used
 ### -> Java Springboot
